@@ -1,9 +1,10 @@
 /*!
  * jQuery Validation Plugin for bootstrap templates 0.0.0
+ * https://github.com/vivekhas3/bootstrap-validator
  *
- * http://lendingstream.co.uk/
+ * Copyright (c) 2014 Vivek Soundrapandi
+ * Released under the MIT license
  *
- * Author: Vivek.S
  * Examples:
  *        $().validate();
  *       $().validate({'class_name':'validate_check','event_name':'ifToggled'});
