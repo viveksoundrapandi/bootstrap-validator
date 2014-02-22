@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-validator",
+  "version": "0.0.0",
+  "description": "A simple jQuery validation plugin for bootstrap based templates with a lot of customization.",
+  "main": "jquery-bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vivekhas3/bootstrap-validator"
+  },
+  "keywords": [
+    "jquery",
+    "bootstrap",
+    "validator"
+  ],
+  "author": "Vivek.S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivekhas3/bootstrap-validator/issues"
+  },
+  "homepage": "https://github.com/vivekhas3/bootstrap-validator",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.3"
+  }
+}
